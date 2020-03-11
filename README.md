@@ -1,6 +1,9 @@
 # Website Portal Berita
 
 Front Template : https://colorlib.com/wp/template/webmag/
+Admin Template : null
 
 Anggota :
-- [Tes](https://github.com/LealSF)
+- [Labay](https://github.com/LealSF)
+- [Nada](https://github.com/sabda123)
+- [Nadur](https://github.com/nadurim)
